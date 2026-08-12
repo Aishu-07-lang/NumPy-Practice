@@ -15,3 +15,14 @@ x=[1,2,3,4,5]
 y=(np.array(x))
 print(y)
 print(type(y))
+
+import numpy as np
+
+x=[1,2,3,4,5]
+print(x)
+y=(np.array(x))
+print(y)
+
+import numpy as np
+ar2=np.array([[1,2,3,4,5][1,2,3,4]])
+print(ar2)
